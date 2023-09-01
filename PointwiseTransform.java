@@ -2,6 +2,7 @@
 public class PointwiseTransform extends Object {
 
  /**
+  * oi
  * Question 2.1 Contrast reversal
  */
  static public ImageAccess inverse(ImageAccess input) {
